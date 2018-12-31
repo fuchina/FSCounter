@@ -1,0 +1,7 @@
+platform:ios,'8.2'
+
+target 'FSCounterSample' do
+
+  pod 'FSCounter', :path => '../'
+
+end
