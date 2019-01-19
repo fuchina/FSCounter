@@ -1,1 +1,1 @@
-../../../../../FSCounter/classes/Tax/FSTaxDetailView.h
+../../../../../FSCounter/classes/FSTaxDetailView.h

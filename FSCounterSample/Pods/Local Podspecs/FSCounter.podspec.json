@@ -1,6 +1,6 @@
 {
   "name": "FSCounter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "FSCounter is a tool for apps",
   "description": "This is a very small software library, offering a few methods to help with programming.",
   "homepage": "https://github.com/fuchina/FSCounter",
@@ -13,14 +13,9 @@
   },
   "source": {
     "git": "https://github.com/fuchina/FSCounter.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
-  "source_files": [
-    "FSCounter/classes/AESBusiness/*.{h}",
-    "FSCounter/classes/FSBalance/*.{h}",
-    "FSCounter/classes/LoanCounter/*.{h}",
-    "FSCounter/classes/Tax/*.{h}"
-  ],
+  "source_files": "FSCounter/classes/*.{h}",
   "ios": {
     "vendored_libraries": "FSCounter/libs/libFSCounter.a"
   },

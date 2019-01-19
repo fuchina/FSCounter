@@ -1,1 +1,1 @@
-../../../../../FSCounter/classes/Tax/FSTaxOfIncomeController.h
+../../../../../FSCounter/classes/FSTaxOfIncomeController.h
