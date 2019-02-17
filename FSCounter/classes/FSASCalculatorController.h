@@ -10,4 +10,6 @@
 
 @interface FSASCalculatorController : FSShakeBaseController
 
+@property (nonatomic,copy) NSString     *table;
+
 @end
