@@ -4,7 +4,7 @@ PODS:
     - FSTrack
     - FSUIKit
   - FSCalculator (0.0.1)
-  - FSCounter (1.0.2):
+  - FSCounter (1.1):
     - FSJZKit
   - FSCryptor (0.0.2):
     - FSKit
@@ -65,7 +65,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FSBaseController: 56b00dbb1e19beadd49fdf9ff145b319a8ab63e1
   FSCalculator: 3ab79307b008ebf07b4fa7fe827f418d7c65fd14
-  FSCounter: 9135c5487a1997feb0fa5fa58d79e36c67d3d691
+  FSCounter: 589aec992a8f97500711e0701282241551fd9043
   FSCryptor: 6d576b427b355d19d23b46d4fda560e8c30c5214
   FSDBMaster: a97c4d790af559d00a23e5bd6cd49ee27a35049a
   FSJZKit: 2813b790ad9191658d523e4c68ea1acc6b94d468
